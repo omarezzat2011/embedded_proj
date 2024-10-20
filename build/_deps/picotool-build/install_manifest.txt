@@ -1,0 +1,5 @@
+/home/omar/embedded_proj/build/_deps/picotool/picotool
+/home/omar/embedded_proj/build/_deps/picotool/picotoolTargets.cmake
+/home/omar/embedded_proj/build/_deps/picotool/picotoolTargets-release.cmake
+/home/omar/embedded_proj/build/_deps/picotool/picotoolConfig.cmake
+/home/omar/embedded_proj/build/_deps/picotool/picotoolConfigVersion.cmake

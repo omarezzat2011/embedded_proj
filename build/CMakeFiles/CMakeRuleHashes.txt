@@ -1,0 +1,12 @@
+# Hashes of file build rules.
+cc6debc2e44fa5e7938a9eb114b2d26e pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin
+cc6debc2e44fa5e7938a9eb114b2d26e pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm
+e0122002656ed6db4da6d77f5d67babb pico-sdk/src/rp2040/boot_stage2/CMakeFiles/picotoolBuild-complete
+8c88b804179b1b7e7a398f418e616877 pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+3ad0f4d15b7f6d1875e2a2bd16341c63 pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
+a951c000f541424b99c160f894cd81c8 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-configure
+e797190c33eb3b2a4ebc04aef9868b34 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-download
+59b34c6eec02e6a40a10d430d416416e pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir
+b7c52136666046bdeba6737890751810 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-patch
+5182b1c16aa26e73490ec029531d6e0d pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-test
+4efccdf1ca748f260ec702e436974f18 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-update

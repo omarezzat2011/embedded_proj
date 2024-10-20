@@ -1,0 +1,3 @@
+/home/omar/embedded_proj/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.dir
+/home/omar/embedded_proj/build/_deps/picotool-subbuild/CMakeFiles/edit_cache.dir
+/home/omar/embedded_proj/build/_deps/picotool-subbuild/CMakeFiles/rebuild_cache.dir
